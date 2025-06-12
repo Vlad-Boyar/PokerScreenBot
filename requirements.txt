@@ -1,0 +1,20 @@
+# Core
+numpy>=1.24
+opencv-python>=4.8
+Pillow>=10.0
+matplotlib>=3.7
+
+# Torch + models
+torch>=2.0
+torchvision>=0.15
+ultralytics>=8.0
+
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Other utils
+requests>=2.31

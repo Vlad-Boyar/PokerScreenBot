@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env file
+.env
+
+# Models and solver DB (private data)
+models/
+solver_db/
+
+# Personal test data
+Screens/
+
+# System files 
+Thumbs.db
+.DS_Store
