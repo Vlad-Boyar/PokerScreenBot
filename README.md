@@ -3,22 +3,6 @@
 
 An AI-powered tool to analyze poker table screenshots and provide optimal decisions — in under 1 second!
 
-## Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="600"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot1.png" width="400"/>
-  <img src="assets/screenshot2.png" width="400"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot3.png" width="400"/>
-  <img src="assets/screenshot4.png" width="400"/>
-</p>
-
 ## Project status
 
 Current MVP stage is complete:
@@ -75,6 +59,22 @@ Current MVP stage is complete:
 - Without these components, the bot will not function fully out of the box — this is intentional, to protect proprietary data.
 - If you wish to adapt or extend this project, you will need to train your own models and prepare your own solver database.
 
+## Demo
+
+<p align="center">
+  <img src="assets/demo.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshot1.png" width="400"/>
+  <img src="assets/screenshot2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshot3.png" width="400"/>
+  <img src="assets/screenshot4.png" width="400"/>
+</p>
+
 ## Quick Start
 
 1️⃣ Clone the repo  
@@ -114,7 +114,5 @@ python main.py
 
 ## Author
 
-👤 **Vlad Boyar**
-
-- GitHub: [@Vlad-Boyar](https://github.com/Vlad-Boyar)
-- LinkedIn: [Vlad Boyarin](https://www.linkedin.com/in/vlad-boyarin)
+Boyar_Corporation  
+[Your Contact or GitHub Profile Link]  
