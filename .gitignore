@@ -7,6 +7,9 @@ __pycache__/
 # Env file
 .env
 
+# venv
+venv/
+
 # Models and solver DB (private data)
 models/
 solver_db/
